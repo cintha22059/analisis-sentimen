@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+swifter
+gensim
+Sastrawi
+requests
+scikit-learn
